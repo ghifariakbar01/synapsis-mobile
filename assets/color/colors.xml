@@ -1,0 +1,15 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+    <color name="primary_grey">#F7F7F7</color>
+
+    <color name="gradient_green_top">#2E8B56</color>
+    <color name="gradient_green_bottom">#1D4F32</color>
+    <color name="gradient_green_center">#277147</color>
+
+    <color name="border_green">#4BA84A</color>
+
+    <color name="primary_green">#028161</color>   
+</resources>
+
+
+

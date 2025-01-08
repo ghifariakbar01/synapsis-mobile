@@ -1,0 +1,204 @@
+{
+  "@@locale": "en",
+  "registrationAdmin": "This registration is specifically intended for administrators and teachers. Click here to register as an administrator. Follow the next steps by filling in your username and personal information (KYC) for confirmation and verification by the pesantren admin team.",
+  "@registrationAdmin": {
+    "description": "Text for admin registration instructions in English, intended for administrators and teachers to register."
+  },
+  
+  "registrationGuardian": "This registration is intended for guardians. Click this link to register and complete the KYC process for further verification by the pesantren admin team.",
+  "@registrationGuardian": {
+    "description": "Text for guardian registration instructions in English, intended for guardians to register and complete KYC."
+  },
+
+  "registrationGeneral": "This registration is open to all users, including devotees, alumni, and the general community. Click to register and fill in your username and personal data. The pesantren admin team will confirm and verify.",
+  "@registrationGeneral": {
+    "description": "Text for general user registration instructions in English, open for all users including devotees, alumni, and community."
+  },
+
+  "pondokMember": "Pondok Member",
+  "@pondokMember": {
+    "description": "Label for pondok members option in English."
+  },
+
+  "guardian": "Guardian",
+  "@guardian": {
+    "description": "Label for guardian option in English."
+  },
+
+  "generalUser": "General User",
+  "@generalUser": {
+    "description": "Label for general user option in English."
+  },
+
+  "select": "Select",
+  "@select": {
+    "description": "Button text for selecting an option in English."
+  },
+
+  "generalUserTitle": "General User",
+  "@generalUserTitle": {
+    "description": "Title text for general user selection in English."
+  },
+
+  "passwordResetInfo": "Enter your registered username, phone number, or email, and we will send confirmation for a new password request.",
+  "@passwordResetInfo": {
+    "description": "Text for password reset information in English, instructing users to enter username, phone, or email."
+  },
+
+  "emailOrPhone": "Email / Phone Number",
+  "@emailOrPhone": {
+    "description": "Label for input field where users can enter email or phone number in English."
+  },
+
+  "sendPasswordViaSMS": "Send new password via SMS?",
+  "@sendPasswordViaSMS": {
+    "description": "Option text in English asking if the new password should be sent via SMS."
+  },
+
+  "send": "Send",
+  "@send": {
+    "description": "Button text for sending information in English."
+  },
+  "noAccount": "Don't have an account? <bold>Sign Up</bold>",
+  "@noAccount": {},
+  "alreadyHaveAccount": "Already have an account? <bold>Log In</bold>",
+  "@alreadyHaveAccount": {},
+  "agreePrivacyPolicy": "I agree to the <bold>Privacy Policy</bold>",
+  "@agreePrivacyPolicy": {},
+  "selectCountry": "Select Country",
+  "@selectCountry": {},
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {},
+  "password": "Password",
+  "@password": {},
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {},
+  "fullName": "Full Name",
+  "@fullName": {},
+  "passwordHint": "Password",
+  "@passwordHint": {},
+  "connectionVerificationInfo": "Connection verification is done to secure the account and verify the guardian's data connected to the student",
+  "@connectionVerificationInfo": {},
+  "verificationProcessInfo": "Verification is done in three stages: phone/WhatsApp number verification, identity verification, and guardian-student connection verification",
+  "@verificationProcessInfo": {},
+  "dataPrivacyInfo": "Personal data provided in the verification process is guaranteed to be secure and will not be misused",
+  "@dataPrivacyInfo": {},
+  "startVerification": "Start Verification",
+  "@startVerification": {},
+  "connectWithChild": "Connect With Child",
+  "@connectWithChild": {},
+  "cont": "Continue",
+  "@cont": {},
+  "searchPesantren": "Search Boarding School...",
+  "@searchPesantren": {},
+  "selectPesantrenOrigin": "Select Boarding School Origin",
+  "@selectPesantrenOrigin": {},
+  "welcome": "Welcome",
+  "@welcome": {},
+  "selectPesantren": "Select",
+  "@selectPesantren": {},
+  "onBoardTitleSix": "PesantrenQu",
+  "@onBoardTitleSix": {},
+  "onBoardDescSix": "<bold>PesantrenQu</bold> was born thanks to a collaboration with <bold>PesantrenQu Platform</bold> owned by <bold>PT Solusi Infotech Semesta Indonesia (SIESTA)</bold>",
+  "@onBoardDescSix": {},
+  "onBoardTitleFive": "Academic",
+  "@onBoardTitleFive": {},
+  "onBoardDescFive": "It is easy to monitor students in terms of attendance, learning/academic development and reciting the Quran & Yellow Book/daily memorization targets.",
+  "@onBoardDescFive": {},
+  "onBoardTitleFour": "List of New Students & Senior High School Students",
+  "@onBoardTitleFour": {},
+  "onBoardDescFour": "Easy to Register New Students & Syahriyah",
+  "@onBoardDescFour": {},
+  "onBoardTitleThree": "Provision Money",
+  "@onBoardTitleThree": {},
+  "onBoardDescThree": "It is easy to send pocket money to the SaQu Card because it is connected to more than 140 banks and fintechs throughout Indonesia for 24 hours and can be done anywhere and you are free to set your child's consumption limit.",
+  "@onBoardDescThree": {},
+  "onBoardTitleTwo": "Cashless System",
+  "@onBoardTitleTwo": {},
+  "onBoardDescTwo": "Implementing a cashless system in all transactions at school by students, guardians of students and teachers",
+  "@onBoardDescTwo": {},
+   "onBoardTitleOne": "PesantrenQu",
+  "@onBoardTitleOne": {},
+   "onBoardDescOne": "Application for all parties (Guardians, Asatidz, Teachers, Khadim, to Administrators and Caretakers) in your Islamic Boarding School environment. You can access everything anywhere & anytime!",
+  "@onBoardDescOne": {
+    "description": "Deskripsi Onboard Pertama"
+  },
+   "next": "Next",
+  "@next": {
+    "description": "Next Button"
+  },
+  
+
+  
+  "appTitle": "flutter_bloc_app_template",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "itemsTitle": "Sample Items",
+  "@itemsTitle": {
+    "description": "The title of the sample items"
+  },
+  "messagesTitle": "Messages",
+  "@messagesTitle": {
+    "description": "The title of the messages screen with a single parameter"
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "description": "The title of the settings"
+  },
+  "themeTitle": "Theme",
+  "@themeTitle": {},
+  "systemThemeTitle": "System Theme",
+  "@systemThemeTitle": {},
+  "lightThemeTitle": "Light Theme",
+  "@lightThemeTitle": {},
+  "darkThemeTitle": "Dark Theme",
+  "@darkThemeTitle": {},
+
+  "lightGoldThemeTitle": "Light Gold",
+  "@lightGoldThemeTitle": {},
+
+  "darkGoldThemeTitle": "Dark Gold",
+  "@darkGoldThemeTitle": {},
+
+  "lightMintThemeTitle": "Light Mint",
+  "@lightMintThemeTitle": {},
+
+  "darkMintThemeTitle": "Dark Mint",
+  "@darkMintThemeTitle": {},
+
+  "experimentalThemeTitle": "Experimental Theme",
+  "@experimentalThemeTitle": {},
+  "itemDetailsTitle": "Item Details",
+  "@itemDetailsTitle": {
+    "description": "The title of the Item Details screen"
+  },
+  "error": "Error",
+  "@error": {},
+  "emptyList": "Empty list",
+  "@emptyList": {},
+  "tabHome": "Home",
+  "@tabHome": {},
+  "tabSettings": "Settings",
+  "@tabSettings": {},
+  "newsScreen": "News",
+  "@newsScreen": {},
+  "disabledButtonTitle": "Disabled",
+  "@disabledButtonTitle": {},
+  "disabledRoundedButtonTitle": "Disabled Rounded",
+  "@disabledRoundedButtonTitle": {},
+  "disabledWithIconButtonTitle": "Disabled With Icon",
+  "@disabledWithIconButtonTitle": {},
+  "enabledButtonTitle": "Enabled",
+  "@enabledButtonTitle": {},
+  "borderRadiusButtonTitle": "BorderRadius",
+  "@borderRadiusButtonTitle": {},
+  "borderSideButtonTitle": "BorderSide",
+  "@borderSideButtonTitle": {},
+  "iconButtonTitle": "With Icon",
+  "@iconButtonTitle": {},
+  "iconAndPaddingButtonTitle": "With Icon Padding",
+  "@iconAndPaddingButtonTitle": {},
+  "transparentButtonTitle": "Transparent",
+  "@transparentButtonTitle": {}
+}

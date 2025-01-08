@@ -1,0 +1,226 @@
+{
+  "@@locale": "id",
+  "registrationAdmin": "Registrasi ini ditujukan khusus untuk pengurus pondok dan dewan guru. Klik di sini untuk mendaftar sebagai pengurus pondok. Ikuti langkah selanjutnya dengan mengisi nama pengguna dan informasi pribadi Anda (KYC) untuk proses konfirmasi dan verifikasi oleh tim admin pondok pesantren.",
+  "@registrationAdmin": {
+    "description": "Text for admin registration instructions in Indonesian, intended for administrators and teachers to register."
+  },
+  
+  "registrationGuardian": "Pendaftaran ini ditujukan bagi wali santri. Klik tautan ini untuk mendaftar dan lengkapi proses KYC untuk verifikasi lebih lanjut oleh tim admin pondok pesantren.",
+  "@registrationGuardian": {
+    "description": "Text for guardian registration instructions in Indonesian, intended for guardians to register and complete KYC."
+  },
+
+  "registrationGeneral": "Pendaftaran ini terbuka bagi semua pengguna, termasuk muhibbin, alumni, dan jamaah umum. Klik untuk mendaftar dan isi nama pengguna serta data diri Anda. Tim admin pondok pesantren akan melakukan konfirmasi dan verifikasi.",
+  "@registrationGeneral": {
+    "description": "Text for general user registration instructions in Indonesian, open for all users including devotees, alumni, and community."
+  },
+
+  "pondokMember": "Anggota Pondok",
+  "@pondokMember": {
+    "description": "Label for pondok members option in Indonesian."
+  },
+
+  "guardian": "Wali Santri",
+  "@guardian": {
+    "description": "Label for guardian option in Indonesian."
+  },
+
+  "generalUser": "Pengguna Umum",
+  "@generalUser": {
+    "description": "Label for general user option in Indonesian."
+  },
+
+  "select": "Pilih",
+  "@select": {
+    "description": "Button text for selecting an option in Indonesian."
+  },
+
+  "generalUserTitle": "Pengguna Umum",
+  "@generalUserTitle": {
+    "description": "Title text for general user selection in Indonesian."
+  },
+
+  "passwordResetInfo": "Masukkan username, telepon, atau email terdaftar, kami akan mengirimkan konfirmasi untuk permintaan kata sandi baru.",
+  "@passwordResetInfo": {
+    "description": "Text for password reset information in Indonesian, instructing users to enter username, phone, or email."
+  },
+
+  "emailOrPhone": "Email / Nomor Telepon",
+  "@emailOrPhone": {
+    "description": "Label for input field where users can enter email or phone number in Indonesian."
+  },
+
+  "sendPasswordViaSMS": "Kirim password baru via SMS?",
+  "@sendPasswordViaSMS": {
+    "description": "Option text in Indonesian asking if the new password should be sent via SMS."
+  },
+
+  "send": "Kirim",
+  "@send": {
+    "description": "Button text for sending information in Indonesian."
+  },
+  "noAccount": "Belum memiliki akun? <bold>Daftar</bold>",
+  "alreadyHaveAccount": "Sudah memiliki akun? <bold>Masuk</bold>",
+  "agreePrivacyPolicy": "Saya menyetujui <bold>Kebijakan Privasi</bold>",
+  "@agreePrivacyPolicy": {},
+  "selectCountry": "Pilih Negara",
+  "@selectCountry": {},
+  "phoneNumber": "Nomor Telepon",
+  "@phoneNumber": {},
+  "password": "Kata Sandi",
+  "@password": {},
+  "forgotPassword": "Lupa Kata Sandi?",
+  "@forgotPassword": {},
+  "fullName": "Nama Lengkap",
+  "@fullName": {},
+  "passwordHint": "Kata Sandi",
+  "@passwordHint": {},
+  "connectionVerificationInfo": "Verifikasi koneksi dilakukan untuk keamanan akun dan akurasi data wali yang terhubung dengan santri",
+  "@connectionVerificationInfo": {},
+  "verificationProcessInfo": "Verifikasi dilakukan melalui tiga tahap yaitu verifikasi no. telp/wa, verifikasi identitas dan verifikasi koneksi wali dengan santri",
+  "@verificationProcessInfo": {},
+  "dataPrivacyInfo": "Data - data pribadi yang diberikan dalam proses verifikasi dijamin keamanannya dan tidak akan disalahgunakan",
+  "@dataPrivacyInfo": {},
+  "startVerification": "Mulai Verifikasi",
+  "@startVerification": {},
+  "connectWithChild": "Hubungkan Dengan Anak",
+  "@connectWithChild": {},
+  "cont": "Lanjutkan",
+  "@cont": {},
+  "searchPesantren": "Cari Pesantren...",
+  "@searchPesantren": {},
+  "selectPesantrenOrigin": "Pilih asal pesantren anda",
+  "@selectPesantrenOrigin": {},
+  "welcome": "Selamat Datang",
+  "@welcome": {},
+  "selectPesantren": "Pilih Pesantren",
+  "@selectPesantren": {},
+  "onBoardTitleSix": "PesantrenQu",
+  "@onBoardTitleSix": {
+    "description": "Title Onboard Keenam"
+  },
+  "onBoardDescSix": "<bold>PesantrenQu</bold> lahir berkat kolaborasi dengan <bold>Platform PesantrenQu</bold> milik <bold>PT Solusi Infotech Semesta Indonesia (SIESTA)</bold>",
+  "@onBoardDescSix": {
+    "description": "Deskripsi Onboard Keenam"
+  },
+  "onBoardTitleFive": "Akademik",
+  "@onBoardTitleFive": {
+    "description": "Title Onboard Kelima"
+  },
+  "onBoardDescFive": "Mudah memantau Santri dalam hal kehadiran, perkembangan belajar / akademik dan mengaji Al-Quran & Kitab Kuning / target hafalan sehari - hari",
+  "@onBoardDescFive": {
+    "description": "Deskripsi Onboard Kelima"
+  },
+  "onBoardTitleFour": "Daftar Santri Baru & Syahriyah",
+  "@onBoardTitleFour": {
+    "description": "Title Onboard Keempat"
+  },
+  "onBoardDescFour": "Mudah melakukan Daftar Santri Baru & Syahriyah",
+  "@onBoardDescFour": {
+    "description": "Deskripsi Onboard Keempat"
+  },
+  "onBoardTitleThree": "Uang Bekal",
+  "@onBoardTitleThree": {
+    "description": "Title Onboard Ketiga"
+  },
+  "onBoardDescThree": "Mudah mengirimkan uang bekal ke dalam Kartu SaQu karena terhubung dengan 140 lebih Bank dan Fintech di seluruh Indonesia selama 24 jam dan dapat dilakukan dimana saja serta bebas atur limit konsumsi anak Anda.",
+  "@onBoardDescThree": {
+    "description": "Deskripsi Onboard Ketiga"
+  },
+  "onBoardTitleTwo": "Cashless System",
+  "@onBoardTitleTwo": {
+    "description": "Title Onboard Kedua"
+  },
+  "onBoardDescTwo": "Menerapkan sistem cashless dalam segala transaksi di sekolah oleh Santri, Wali Santri dan Asatidz",
+  "@onBoardDescTwo": {
+    "description": "Deskripsi Onboard Kedua"
+  },
+  "onBoardTitleOne": "PesantrenQu",
+  "@onBoardTitleOne": {
+    "description": "Title Onboard Pertama"
+  },
+  "onBoardDescOne": "Aplikasi untuk seluruh pihak (Wali Santri, Asatidz, Guru, Khadim, hingga Pengurus maupun Pengasuh) di lingkungan Pesantren Anda. Anda bisa akses semuanya dimanapun & kapanpun!",
+  "@onBoardDescOne": {
+    "description": "Deskripsi Onboard Pertama"
+  },
+   "next": "Selanjutnya",
+  "@next": {
+    "description": "Button Selanjutnya"
+  },
+
+
+  "appTitle": "flutter_bloc_app_template",
+  "@appTitle": {
+    "description": "Der Titel der Anwendung"
+  },
+  "itemsTitle": "Musterartikel",
+  "@itemsTitle": {
+    "description": "Der Titel der Musterstücke"
+  },
+  "messagesTitle": "Nachrichten",
+  "@messagesTitle": {
+    "description": "Der Titel des Nachrichtenbildschirms"
+  },
+  
+
+  "settingsTitle": "Einstellungen",
+  "@settingsTitle": {
+    "description": "Der Titel der Einstellungen"
+  },
+  "themeTitle": "Thema",
+  "@themeTitle": {},
+  "systemThemeTitle": "System-Thema",
+  "@systemThemeTitle": {},
+  "lightThemeTitle": "Licht-Thema",
+  "@lightThemeTitle": {},
+  "darkThemeTitle": "Dunkles Thema",
+  "@darkThemeTitle": {},
+
+  "lightGoldThemeTitle": "Helles Gold-Thema",
+  "@lightGoldThemeTitle": {},
+
+  "darkGoldThemeTitle": "Dunkles Gold-Thema",
+  "@darkGoldThemeTitle": {},
+
+  "lightMintThemeTitle": "Helles Minz-Thema",
+  "@lightMintThemeTitle": {},
+
+  "darkMintThemeTitle": "Dunkles Minz-Thema",
+  "@darkMintThemeTitle": {},
+
+  "experimentalThemeTitle": "Eksperimen Theme",
+  "@experimentalThemeTitle": {},
+
+  "itemDetailsTitle": "Artikel Details",
+  "@itemDetailsTitle": {
+    "description": "Der Titel des Bildschirms Artikeldetails"
+  },
+  "error": "Fehler",
+  "@error": {},
+  "emptyList": "Leere Liste",
+  "@emptyList": {},
+  "tabHome": "Home",
+  "@tabHome": {},
+  "tabSettings": "Settings",
+  "@tabSettings": {},
+  "newsScreen": "News",
+  "@newsScreen": {},
+  "disabledButtonTitle": "Disabled",
+  "@disabledButtonTitle": {},
+  "disabledRoundedButtonTitle": "Disabled Rounded",
+  "@disabledRoundedButtonTitle": {},
+  "disabledWithIconButtonTitle": "Disabled With Icon",
+  "@disabledWithIconButtonTitle": {},
+  "enabledButtonTitle": "Enabled",
+  "@enabledButtonTitle": {},
+  "borderRadiusButtonTitle": "BorderRadius",
+  "@borderRadiusButtonTitle": {},
+  "borderSideButtonTitle": "BorderSide",
+  "@borderSideButtonTitle": {},
+  "iconButtonTitle": "With Icon",
+  "@iconButtonTitle": {},
+  "iconAndPaddingButtonTitle": "With Icon Padding",
+  "@iconAndPaddingButtonTitle": {},
+  "transparentButtonTitle": "Transparent",
+  "@transparentButtonTitle": {}
+}
